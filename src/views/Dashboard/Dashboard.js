@@ -80,7 +80,7 @@ export default function Dashboard() {
 								</StatLabel>
 								<Flex>
 									<StatNumber fontSize='lg' color='#fff'>
-										$53,000
+										$000S
 									</StatNumber>
 									<StatHelpText
 										alignSelf='flex-end'
